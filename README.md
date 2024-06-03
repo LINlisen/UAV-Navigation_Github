@@ -40,3 +40,5 @@
 - https://mapsplatform.google.com/pricing/
 
 - 140交接光碟有完整的Unity檔案
+
+- Build資料夾內為執行檔
