@@ -6,17 +6,18 @@
 - Google 3D Tiles
 
 ## 參考連結
-- (https://github.com/CesiumGS/cesium-unity-samples?tab=readme-ov-file)
-- (https://cesium.com/learn/unity/unity-photorealistic-3d-tiles/)
-- (https://www.youtube.com/watch?v=u6wW5ZIIrpc&ab_channel=DALAB)
+- https://github.com/CesiumGS/cesium-unity-samples?tab=readme-ov-file
+- https://cesium.com/learn/unity/unity-photorealistic-3d-tiles/
+- https://www.youtube.com/watch?v=u6wW5ZIIrpc&ab_channel=DALAB
 
 ## 開啟Google 3D Tiles模式
->將Cesium3DTileset開啟（Inspect視窗打勾），並設定URL如下圖
+將Cesium3DTileset開啟（Inspect視窗打勾），並設定URL如下圖
 ![範例圖片 1](./img/Google API設定.jpg)
->將Cesium World Terrain 和 Cesium OSM Buildings關閉（Inspect視窗取消打勾）
+
+將Cesium World Terrain 和 Cesium OSM Buildings關閉（Inspect視窗取消打勾）
 
 ## 指引箭頭
->如下圖可將指引箭頭打開
+如下圖可將指引箭頭打開
 ![範例圖片 2](./img/指引箭頭.jpg)
 
 ## 操作方法
@@ -34,6 +35,6 @@
 
 ## 注意事項
 >Google 3D Tiles 每個月有免費額限制，參考以下網址！
-- (https://mapsplatform.google.com/pricing/)
+- https://mapsplatform.google.com/pricing/
 
 - 140交接光碟有完整的Unity檔案
