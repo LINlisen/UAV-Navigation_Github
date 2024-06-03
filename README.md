@@ -12,12 +12,14 @@
 
 ## 開啟Google 3D Tiles模式
 將Cesium3DTileset開啟（Inspect視窗打勾），並設定URL如下圖
-![範例圖片 1](./img/Google API設定.jpg)
+
+![範例圖片 1](./img/GoogleAPI設定.jpg)
 
 將Cesium World Terrain 和 Cesium OSM Buildings關閉（Inspect視窗取消打勾）
 
 ## 指引箭頭
 如下圖可將指引箭頭打開
+
 ![範例圖片 2](./img/指引箭頭.jpg)
 
 ## 操作方法
